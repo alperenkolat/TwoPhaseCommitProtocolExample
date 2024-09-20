@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coordinator", "Coordinator\Coordinator.csproj", "{06DAAB1E-037E-4182-8672-17595B8F9BED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderService.API", "OrderService.API\OrderService.API.csproj", "{40BE10C3-1A6F-4B76-AB41-0870575A278A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockService.API", "StockService.API\StockService.API.csproj", "{225ECFDA-524A-44E2-8CC1-5ED1B7C0890F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentService.APı", "PaymentService.APı\PaymentService.APı.csproj", "{1FCFC773-940A-448F-BA58-FDED87591BD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06DAAB1E-037E-4182-8672-17595B8F9BED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06DAAB1E-037E-4182-8672-17595B8F9BED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06DAAB1E-037E-4182-8672-17595B8F9BED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06DAAB1E-037E-4182-8672-17595B8F9BED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40BE10C3-1A6F-4B76-AB41-0870575A278A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40BE10C3-1A6F-4B76-AB41-0870575A278A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40BE10C3-1A6F-4B76-AB41-0870575A278A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40BE10C3-1A6F-4B76-AB41-0870575A278A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{225ECFDA-524A-44E2-8CC1-5ED1B7C0890F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{225ECFDA-524A-44E2-8CC1-5ED1B7C0890F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{225ECFDA-524A-44E2-8CC1-5ED1B7C0890F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{225ECFDA-524A-44E2-8CC1-5ED1B7C0890F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FCFC773-940A-448F-BA58-FDED87591BD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FCFC773-940A-448F-BA58-FDED87591BD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FCFC773-940A-448F-BA58-FDED87591BD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FCFC773-940A-448F-BA58-FDED87591BD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
