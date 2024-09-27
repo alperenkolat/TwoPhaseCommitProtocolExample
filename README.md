@@ -11,7 +11,6 @@ public interface ITransactionService
 }
 ```
 
-![image](https://github.com/user-attachments/assets/62802987-17ef-4761-8101-fc38ce8fab19)
 
 ![image](https://github.com/user-attachments/assets/0b47b7f2-d3da-48f2-adff-4214f51e8cec)
 
