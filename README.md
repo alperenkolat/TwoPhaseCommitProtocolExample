@@ -1,5 +1,5 @@
 # TwoPhaseCommitProtocolExample
-'''
+```c#
 public interface ITransactionService
 {
     Task<Guid> CreateTransactionAsync();
@@ -9,7 +9,7 @@ public interface ITransactionService
     Task<bool> CheckTransactionStateServicesAsync(Guid transactionId);
     Task RollbackAsync(Guid transactionId);
 }
-'''
+```
 
 ![image](https://github.com/user-attachments/assets/62802987-17ef-4761-8101-fc38ce8fab19)
 
