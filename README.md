@@ -61,6 +61,19 @@ This project simulates a system using the Two-Phase Commit protocol, where:
 The Two-Phase Commit Protocol is a robust method for ensuring safe transaction completion in distributed systems. This project provides a basic example of how the protocol operates and can be used as a learning tool for understanding the intricacies of distributed transaction management.
 
 
+### Results Examples
+#### Pending state example
+
+![image](https://github.com/user-attachments/assets/00dacb39-68dd-4d16-84c1-2706b50a671b)
+
+
+#### successfully state example
+![image](https://github.com/user-attachments/assets/d668560d-2d60-4a7e-8818-29aa15416c42)
+
+
+#### Abort state example
+![image](https://github.com/user-attachments/assets/0171957d-0620-4385-879b-77e835107926)
+
 ####  Source
 [Gençay Yıldız](https://www.gencayyildiz.com/blog/)
 
